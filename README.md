@@ -1,4 +1,4 @@
-## <div align="center"> Fala, galeeeeeeeeera! Eu sou a Laura, mas pode me chamar de Carlota! </div>
+## <div align="center"> Fala, galeeeeeeeeera! Eu sou a Laura, mas podem me chamar de Carlota! </div>
 
 
 <div align="center"> 🔭 I’m currently working at Bom Valor! 🔭 </div>
