@@ -1,6 +1,6 @@
 ## <div align="center"> Fala, galeeeeeeeeera! </div>
 
-## <div align="center"> Eu sou a Laura, mas podem me chamar de Carlota! </div>
+<div align="center"> Eu sou a Laura, mas podem me chamar de Carlota! </div>
 
 
 <div align="center"> 🔭 I’m currently working at Bom Valor! 🔭 </div>
