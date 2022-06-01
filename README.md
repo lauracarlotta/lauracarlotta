@@ -2,6 +2,7 @@
 
 <div align="center"> Eu sou a Laura, mas podem me chamar de Carlota! </div>
 
+##
 
 <div align="center"> 🔭 I’m currently working at Bom Valor! 🔭 </div>
 <div align="center"> 🌱 I’m currently learning Typescript! 🌱 </div>
