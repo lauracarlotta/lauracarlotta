@@ -1,8 +1,4 @@
-## <div align="center"> Fala, galeeeeeeeeera! </div>
-
-<div align="center"> Eu sou a Laura, mas podem me chamar de Carlota! </div>
-
-##
+## <div align="center"> Hey, everybody! </br> I'm Laura, but you can call me Carlota, ok?!</div>
 
 <div align="center"> 🔭 I’m currently working all the time! 🔭 </div>
 <div align="center"> 🌱 I’m currently learning VueJS! 🌱 </div>
