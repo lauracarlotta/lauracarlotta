@@ -1,8 +1,8 @@
 ## <div align="center"> Hey, everybody! </br> I'm Laura, but you can call me Carlota, ok?!</div>
 
 <div align="center"> 🔭 I’m currently working all the time! 🔭 </div>
-<div align="center"> 🌱 I’m currently learning VueJS! 🌱 </div>
-<div align="center"> 👯 I’m looking to collaborate on Javascript! 👯 </div>
+<div align="center"> 🌱 I’m currently learning VueJS and React! 🌱 </div>
+<div align="center"> 👯 I’m looking to collaborate on Javascript and typescript! 👯 </div>
 <div align="center"> 🤔 I’m looking for help with everything about Front-end, this universe is giant! 🤔 </div>
 <div align="center"> 💬 Ask me about css, Maybe I can help you! 💬 </div>
 <div align="center"> 📫 How to reach me: carlotta.custodio@gmail.com 📫 </div>
