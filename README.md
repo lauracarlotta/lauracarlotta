@@ -1,12 +1,12 @@
 ## <div align="center"> Hey, everybody! </br> I'm Laura, but you can call me Carlota, ok?!</div>
 
 <div align="center"> 🔭 I’m currently working all the time! 🔭 </div>
-<div align="center"> 🌱 I’m currently learning VueJS and React! 🌱 </div>
+<div align="center"> 🌱 I’m currently learning to program! 🌱 </div>
 <div align="center"> 👯 I’m looking to collaborate on Javascript and Typescript! 👯 </div>
 <div align="center"> 🤔 I’m looking for help with everything about Front-end, this universe is giant! 🤔 </div>
 <div align="center"> 💬 Ask me about css, Maybe I can help you! 💬 </div>
 <div align="center"> 📫 How to reach me: carlotta.custodio@gmail.com 📫 </div>
-<div align="center"> ⚡ Fun fact: I love origamis, patins and read HQs! ⚡ </div>
+<div align="center"> ⚡ Fun fact: I love animals, origamis, patins and read HQs! ⚡ </div>
 
 ##
 
@@ -30,6 +30,7 @@
   <img align="center" alt="Gitlab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
 </div>
   
   ##
@@ -43,5 +44,3 @@
  <a href="https://open.spotify.com/user/22wimu6j4yf2ixziofbzpunta" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
   <a href = "mailto:carlotta.custodio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lauracarlotta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-  ![Snake animation](https://github.com/lauracarlotta/lauracarlotta/blob/output/github-contribution-grid-snake.svg)
